@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Admin\Desktop\GroovyShoot\ImageProcessForm.dfm" source-language="hr-HR" target-language="it-IT" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Admin\Desktop\GroovyShoot\ImageProcessForm.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41777.971875</prop>
+        <prop prop-type="OrigDateTime">41768.0272222222</prop>
+        <prop prop-type="XlatDateTime">41768.0272222222</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">49</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:process_winForm.Left" resname="O:process_winForm.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Top" resname="O:process_winForm.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Caption" resname="O:process_winForm.Caption">
+        <source>'GroovyShoot - ScreenCapture'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.ClientHeight" resname="O:process_winForm.ClientHeight">
+        <source>299</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.ClientWidth" resname="O:process_winForm.ClientWidth">
+        <source>635</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Color" resname="O:process_winForm.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Font.Charset" resname="O:process_winForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Font.Color" resname="O:process_winForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Font.Height" resname="O:process_winForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Font.Name" resname="O:process_winForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Font.Style" resname="O:process_winForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.OldCreateOrder" resname="O:process_winForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.Position" resname="O:process_winForm.Position">
+        <source>poDesktopCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.OnClose" resname="O:process_winForm.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.OnCreate" resname="O:process_winForm.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.OnDestroy" resname="O:process_winForm.OnDestroy">
+        <source>FormDestroy</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.PixelsPerInch" resname="O:process_winForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.TextHeight" resname="O:process_winForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">Tprocess_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.AlignWithMargins" resname="O:process_winForm.O:capture_output.AlignWithMargins">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Left" resname="O:process_winForm.O:capture_output.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Top" resname="O:process_winForm.O:capture_output.Top">
+        <source>38</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Width" resname="O:process_winForm.O:capture_output.Width">
+        <source>625</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Height" resname="O:process_winForm.O:capture_output.Height">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Margins.Left" resname="O:process_winForm.O:capture_output.Margins.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Margins.Top" resname="O:process_winForm.O:capture_output.Margins.Top">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Margins.Right" resname="O:process_winForm.O:capture_output.Margins.Right">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Margins.Bottom" resname="O:process_winForm.O:capture_output.Margins.Bottom">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.Align" resname="O:process_winForm.O:capture_output.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.ExplicitLeft" resname="O:process_winForm.O:capture_output.ExplicitLeft">
+        <source>224</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.ExplicitTop" resname="O:process_winForm.O:capture_output.ExplicitTop">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.ExplicitWidth" resname="O:process_winForm.O:capture_output.ExplicitWidth">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:capture_output.ExplicitHeight" resname="O:process_winForm.O:capture_output.ExplicitHeight">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.Left" resname="O:process_winForm.O:ToolBar1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.Top" resname="O:process_winForm.O:ToolBar1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.Width" resname="O:process_winForm.O:ToolBar1.Width">
+        <source>635</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.Height" resname="O:process_winForm.O:ToolBar1.Height">
+        <source>33</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.ButtonHeight" resname="O:process_winForm.O:ToolBar1.ButtonHeight">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.Caption" resname="O:process_winForm.O:ToolBar1.Caption">
+        <source>'ToolBar1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.TabOrder" resname="O:process_winForm.O:ToolBar1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.Left" resname="O:process_winForm.O:ToolBar1.O:gumb_save.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.Top" resname="O:process_winForm.O:ToolBar1.O:gumb_save.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.Width" resname="O:process_winForm.O:ToolBar1.O:gumb_save.Width">
+        <source>153</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.Height" resname="O:process_winForm.O:ToolBar1.O:gumb_save.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.Caption" resname="O:process_winForm.O:ToolBar1.O:gumb_save.Caption">
+        <source>'Save Image'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.TabOrder" resname="O:process_winForm.O:ToolBar1.O:gumb_save.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:ToolBar1.O:gumb_save.OnClick" resname="O:process_winForm.O:ToolBar1.O:gumb_save.OnClick">
+        <source>gumb_saveClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:image_saveDialog.InitialDir" resname="O:process_winForm.O:image_saveDialog.InitialDir">
+        <source>'.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TSavePictureDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:image_saveDialog.Left" resname="O:process_winForm.O:image_saveDialog.Left">
+        <source>584</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TSavePictureDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:process_winForm.O:image_saveDialog.Top" resname="O:process_winForm.O:image_saveDialog.Top">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718871528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TSavePictureDialog</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

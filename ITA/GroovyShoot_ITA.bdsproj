@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">W32ResourceDLL.Personality</Option>
+			<Option Name="ProjectType">ResourceDLL</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{41207E0A-744D-4B6D-B757-B63BD263750A}</Option>
+		</Option>
+	</PersonalityInfo>
+	<W32ResourceDLL.Personality>
+		<Source>
+			<Source Name="MainSource">GroovyShoot.dpr</Source>
+		</Source>
+		<Options>
+			<Options Name="BaseLang">1050</Options>
+			<Options Name="TargetName">..\.\Win32\Release\GroovyShoot.ITA</Options>
+			<Options Name="BRCC_IncludePath">$(BDSINCLUDE)\windows\vcl</Options>
+			<Options Name="Company"></Options>
+			<Options Name="Configuration"></Options>
+			<Options Name="Copyright"></Options>
+			<Options Name="Description"></Options>
+			<Options Name="Trademark"></Options>
+			<Options Name="Product"></Options>
+			<Options Name="ProductVersion"></Options>
+			<Options Name="Title"></Options>
+			<Options Name="FileVersion"></Options>
+			<Options Name="Evidence"></Options>
+			<Options Name="KeyFile"></Options>
+			<Options Name="KeyName"></Options>
+		</Options>
+		<FileList><File FileName="AboutForm.dfm" ContainerId="W32Form" ModuleName="AboutForm.dfm"/><File FileName="HelpForm.dfm" ContainerId="W32Form" ModuleName="HelpForm.dfm"/><File FileName="ImageProcessForm.dfm" ContainerId="W32Form" ModuleName="ImageProcessForm.dfm"/><File FileName="MainForm.dfm" ContainerId="W32Form" ModuleName="MainForm.dfm"/><File FileName="SelectAreaForm.dfm" ContainerId="W32Form" ModuleName="SelectAreaForm.dfm"/><File FileName="Win32\Release\GroovyShoot_DRC.rc" ContainerId="W32RC" ModuleName="GroovyShoot_DRC.rc"/></FileList></W32ResourceDLL.Personality>
+</BorlandProject>

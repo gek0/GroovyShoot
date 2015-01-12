@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{D0B7E1E3-C502-4246-899F-69283AD04068}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="GroovyShoot.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="HRV\GroovyShoot_HRV.bdsproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ENU\GroovyShoot_ENU.bdsproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ITA\GroovyShoot_ITA.bdsproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="GroovyShoot">
+        <MSBuild Projects="GroovyShoot.cbproj"/>
+    </Target>
+    <Target Name="GroovyShoot:Clean">
+        <MSBuild Projects="GroovyShoot.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GroovyShoot:Make">
+        <MSBuild Projects="GroovyShoot.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="GroovyShoot_HRV">
+        <MSBuild Projects="HRV\GroovyShoot_HRV.bdsproj"/>
+    </Target>
+    <Target Name="GroovyShoot_HRV:Clean">
+        <MSBuild Projects="HRV\GroovyShoot_HRV.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GroovyShoot_HRV:Make">
+        <MSBuild Projects="HRV\GroovyShoot_HRV.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="GroovyShoot_ENU">
+        <MSBuild Projects="ENU\GroovyShoot_ENU.bdsproj"/>
+    </Target>
+    <Target Name="GroovyShoot_ENU:Clean">
+        <MSBuild Projects="ENU\GroovyShoot_ENU.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GroovyShoot_ENU:Make">
+        <MSBuild Projects="ENU\GroovyShoot_ENU.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="GroovyShoot_ITA">
+        <MSBuild Projects="ITA\GroovyShoot_ITA.bdsproj"/>
+    </Target>
+    <Target Name="GroovyShoot_ITA:Clean">
+        <MSBuild Projects="ITA\GroovyShoot_ITA.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GroovyShoot_ITA:Make">
+        <MSBuild Projects="ITA\GroovyShoot_ITA.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="GroovyShoot;GroovyShoot_HRV;GroovyShoot_ENU;GroovyShoot_ITA"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="GroovyShoot:Clean;GroovyShoot_HRV:Clean;GroovyShoot_ENU:Clean;GroovyShoot_ITA:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="GroovyShoot:Make;GroovyShoot_HRV:Make;GroovyShoot_ENU:Make;GroovyShoot_ITA:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

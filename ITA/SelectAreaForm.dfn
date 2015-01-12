@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Admin\Desktop\GroovyShoot\SelectAreaForm.dfm" source-language="hr-HR" target-language="it-IT" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Admin\Desktop\GroovyShoot\SelectAreaForm.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41777.971875</prop>
+        <prop prop-type="OrigDateTime">41777.0229861111</prop>
+        <prop prop-type="XlatDateTime">41777.0229861111</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">53</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:selectArea_winForm.Left" resname="O:selectArea_winForm.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Top" resname="O:selectArea_winForm.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Cursor" resname="O:selectArea_winForm.Cursor">
+        <source>crCross</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Align" resname="O:selectArea_winForm.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.AlphaBlend" resname="O:selectArea_winForm.AlphaBlend">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.AlphaBlendValue" resname="O:selectArea_winForm.AlphaBlendValue">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.BorderIcons" resname="O:selectArea_winForm.BorderIcons">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.ClientHeight" resname="O:selectArea_winForm.ClientHeight">
+        <source>300</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.ClientWidth" resname="O:selectArea_winForm.ClientWidth">
+        <source>635</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Color" resname="O:selectArea_winForm.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Font.Charset" resname="O:selectArea_winForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Font.Color" resname="O:selectArea_winForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Font.Height" resname="O:selectArea_winForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Font.Name" resname="O:selectArea_winForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.Font.Style" resname="O:selectArea_winForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.GlassFrame.Enabled" resname="O:selectArea_winForm.GlassFrame.Enabled">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.GlassFrame.SheetOfGlass" resname="O:selectArea_winForm.GlassFrame.SheetOfGlass">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.OldCreateOrder" resname="O:selectArea_winForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.OnActivate" resname="O:selectArea_winForm.OnActivate">
+        <source>FormActivate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.PixelsPerInch" resname="O:selectArea_winForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.TextHeight" resname="O:selectArea_winForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TselectArea_winForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.Left" resname="O:selectArea_winForm.O:ScrollBox1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.Top" resname="O:selectArea_winForm.O:ScrollBox1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.Width" resname="O:selectArea_winForm.O:ScrollBox1.Width">
+        <source>635</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.Height" resname="O:selectArea_winForm.O:ScrollBox1.Height">
+        <source>300</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.HorzScrollBar.Tracking" resname="O:selectArea_winForm.O:ScrollBox1.HorzScrollBar.Tracking">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.VertScrollBar.Tracking" resname="O:selectArea_winForm.O:ScrollBox1.VertScrollBar.Tracking">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.Align" resname="O:selectArea_winForm.O:ScrollBox1.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.TabOrder" resname="O:selectArea_winForm.O:ScrollBox1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.ExplicitLeft" resname="O:selectArea_winForm.O:ScrollBox1.ExplicitLeft">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.ExplicitTop" resname="O:selectArea_winForm.O:ScrollBox1.ExplicitTop">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.ExplicitWidth" resname="O:selectArea_winForm.O:ScrollBox1.ExplicitWidth">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.ExplicitHeight" resname="O:selectArea_winForm.O:ScrollBox1.ExplicitHeight">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TScrollBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Left" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Top" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Width" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Width">
+        <source>631</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Height" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Height">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Cursor" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Cursor">
+        <source>crCross</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Align" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.AutoSize" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.AutoSize">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.OnMouseDown" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.OnMouseDown">
+        <source>select_slikaMouseDown</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.OnMouseMove" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.OnMouseMove">
+        <source>select_slikaMouseMove</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.OnMouseUp" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.OnMouseUp">
+        <source>select_slikaMouseUp</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.ExplicitWidth" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.ExplicitWidth">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:select_slika.ExplicitHeight" resname="O:selectArea_winForm.O:ScrollBox1.O:select_slika.ExplicitHeight">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Left" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Left">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Top" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Top">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Width" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Height" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Height">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Brush.Color" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Brush.Color">
+        <source>clMedGray</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Pen.Color" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Pen.Color">
+        <source>clRed</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Pen.Width" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Pen.Width">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Visible" resname="O:selectArea_winForm.O:ScrollBox1.O:podrucje.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41777.9718893519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

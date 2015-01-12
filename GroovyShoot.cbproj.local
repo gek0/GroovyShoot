@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\Matija\Documents\C++ Projekti\AboutForm.h=C:\Users\Matija\Documents\C++ Projekti\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\Users\Admin\Desktop\GroovyShoot\SelectAreaForm.h=C:\Users\Admin\Desktop\GroovyShoot\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\Matija\Documents\C++ Projekti\MainForm.cpp=C:\Users\Matija\Documents\C++ Projekti\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\Matija\Documents\C++ Projekti\AboutForm.dfm=C:\Users\Matija\Documents\C++ Projekti\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\Matija\Documents\C++ projekti\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\Matija\Documents\C++ Projekti\AboutForm.cpp=C:\Users\Matija\Documents\C++ Projekti\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\Matija\Documents\C++ Projekti\Unit1.dfm=C:\Users\Matija\Documents\C++ projekti\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\Matija\Documents\C++ Projekti\Unit1.cpp=C:\Users\Matija\Documents\C++ projekti\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,=C:\Users\Admin\Desktop\GroovyShoot\reinit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Users\Admin\Desktop\GroovyShoot\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,=C:\Users\Admin\Desktop\GroovyShoot\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,C:\Users\Admin\Desktop\GroovyShoot\Unit1.cpp=C:\Users\Admin\Desktop\GroovyShoot\GroovyEditorForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\Admin\Desktop\GroovyShoot\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,C:\Users\Admin\Desktop\GroovyShoot\Unit1.cpp=C:\Users\Admin\Desktop\GroovyShoot\HelpForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,C:\Users\Admin\Desktop\GroovyShoot\Unit1.h=C:\Users\Admin\Desktop\GroovyShoot\GroovyEditorForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,C:\Users\Admin\Desktop\GroovyShoot\Unit1.h=C:\Users\Admin\Desktop\GroovyShoot\HelpForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,=C:\Users\Admin\Desktop\GroovyShoot\AktivniProzorCapture.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\Matija\Documents\C++ Projekti\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,C:\Users\Matija\Documents\C++ Projekti\GroovyShoot.cbproj=C:\Users\Matija\Documents\C++ projekti\GroovyShoot.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\Users\Matija\Desktop\GroovyShoot\Unit1.h=C:\Users\Matija\Desktop\GroovyShoot\ImageProcessForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,C:\Users\Matija\Documents\C++ Projekti\GroovyShootPCH1.h=C:\Users\Matija\Documents\C++ Projekti\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,C:\Users\Matija\Documents\C++ projekti\GroovyShoot.cbproj=C:\Users\Matija\Documents\C++ projekti\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\Users\Admin\Desktop\GroovyShoot\SelectAreaForm.cpp=C:\Users\Admin\Desktop\GroovyShoot\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\Users\Admin\Desktop\GroovyShoot\SelectAreaForm.dfm=C:\Users\Admin\Desktop\GroovyShoot\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\Users\Matija\Desktop\GroovyShoot\Unit1.dfm=C:\Users\Matija\Desktop\GroovyShoot\ImageProcessForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.680,C:\Users\Admin\Desktop\GroovyShoot\GroovyEditorForm.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,=C:\Users\Admin\Desktop\GroovyShoot\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\Matija\Documents\C++ Projekti\MainForm.dfm=C:\Users\Matija\Documents\C++ Projekti\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\Matija\Documents\C++ Projekti\Unit1.h=C:\Users\Matija\Documents\C++ projekti\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,C:\Users\Admin\Desktop\GroovyShoot\Unit1.dfm=C:\Users\Admin\Desktop\GroovyShoot\HelpForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,C:\Users\Admin\Desktop\GroovyShoot\Unit1.dfm=C:\Users\Admin\Desktop\GroovyShoot\GroovyEditorForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\Matija\Documents\C++ Projekti\MainForm.h=C:\Users\Matija\Documents\C++ Projekti\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,=C:\Users\Matija\Desktop\GroovyShoot\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,C:\Users\Matija\Desktop\GroovyShoot\Unit1.cpp=C:\Users\Matija\Desktop\GroovyShoot\ImageProcessForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Users\Matija\Documents\C++ Projekti\Project1PCH1.h=C:\Users\Matija\Documents\C++ projekti\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\Matija\Documents\C++ projekti\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
