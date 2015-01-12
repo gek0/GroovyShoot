@@ -9,3 +9,9 @@ Simple C++ application for screencapture
 
 ### After build
 `include language and help files with the compiled executable`
+
+### GUI preview
+
+![alt tag](https://i.imgur.com/lSGHUVl.png)
+
+![alt tag](https://i.imgur.com/v7jj3Eq.png)
